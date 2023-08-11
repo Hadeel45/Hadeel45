@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Hadeel45
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by my email
+- 👋 Hi, I’m @HadeelAlDhafeeri
+- 👀 I’m interested in coding and problem solving
+- 🌱 I’m computer engineer
+- 💞️ 
 
 
 <!---
